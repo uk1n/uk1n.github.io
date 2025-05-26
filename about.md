@@ -1,7 +1,9 @@
 ---
 layout: page
-title: プロフィール
+title: Profile
 ---
 
-プロフィールのページです。
+This is my profile page.
+
+Das ist meine Selbstvorstellungsseite.
 

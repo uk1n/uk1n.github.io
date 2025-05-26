@@ -1,1 +1,7 @@
+title: Meditation
 theme: minima
+
+# ナビゲーションメニュー（minima テーマ対応）
+header_pages:
+  - index.md
+  - about.md

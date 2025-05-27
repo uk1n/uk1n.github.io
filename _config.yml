@@ -5,6 +5,7 @@ theme: minima
 header_pages:
   - index.md
   - about.md
+  - blog.html
 
 sass:
   style: compressed
